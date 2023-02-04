@@ -1,0 +1,13 @@
+{
+  "name": "aqua-template-gen",
+  "version": "1.0.0",
+  "description": "generator for aqua generators",
+  "main": "index.js",
+  "repository": "https://github.com/sam-aldis/aqua-project/",
+  "author": "Sam Aldis",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ejs": "^3.1.8"
+  }
+}
